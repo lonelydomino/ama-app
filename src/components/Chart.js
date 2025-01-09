@@ -1,5 +1,4 @@
 import React from 'react'
-import { Button } from './Button'
 
 import { Chart as defaults } from 'chart.js/auto'
 import {Line} from 'react-chartjs-2'
@@ -39,14 +38,7 @@ const Chart = () => {
           }}
         />
       </div>
-      <p className='chart-desc'>Rising temperatures are a critical issue that requires immediate and sustained action. Global warming and climate change, driven primarily by human activities such as burning fossil fuels, deforestation, and industrial agriculture, are causing average global temperatures to rise at an unprecedented rate.</p>
-      <br></br>
-      <p className='chart-desc'> If left unchecked, this can lead to severe environmental, economic, and social consequences. Learn how to take action here:</p>
-      <div className='hero-btns'>
-         <Button className='btns' buttonStyle='btn--primary'
-        buttonSize='btn--large'>Learn More
-        </Button>
-    </div> 
+
     </div>
   )
 }

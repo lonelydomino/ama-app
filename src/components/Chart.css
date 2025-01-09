@@ -24,19 +24,5 @@
     justify-content: center;
   }
 
-  .chart-desc {
-    color:white;
-    padding: 0 112px;
-    font-size: 30px;
-  }
-  .hero-btns {
-    display: flex;
-    margin-top: 32px;
-    justify-content: center; 
- }
-  
-  .hero-btns .btn{
-         margin: 6px
-
-  }
+ 
   

@@ -10,8 +10,8 @@
     z-index: 999;
   }
   .navbar-logo img {
-  height: 40px; /* Adjust based on the logo size */
-  width: auto; /* Maintain aspect ratio */
+  height: 40px; 
+  width: auto; 
 }
   .navbar-container {
     display: flex;

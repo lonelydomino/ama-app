@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.cta-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: black;
+  color: white;
+  height: 32vh; 
+  width: 100vw; 
+  margin: 0;
+  padding: 0;
+}
+
+.cta-container h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.cta-container p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+}
+
+.cta-button {
+  background-color: white;
+  color: black;
+  border: 2px solid white;
+  padding: 10px 20px;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: black;
+  color: white;
+  border: 2px solid black;
+}
