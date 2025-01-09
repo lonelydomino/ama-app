@@ -11,11 +11,10 @@ const HeroSection = () => {
     <div className='hero-btns'>
         <Button className='btns' buttonStyle='btn--outline'
         buttonSize='btn--large'>Get Started
-        '</Button>
-         <Button className='btns' buttonStyle='btn--primary'
-        buttonSize='btn--large'>Get Started
         </Button>
-        Learn More
+         <Button className='btns' buttonStyle='btn--primary'
+        buttonSize='btn--large'>Learn More
+        </Button>
     </div>  
     </div>
   )
