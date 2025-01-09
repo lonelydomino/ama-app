@@ -2,7 +2,6 @@
 import React from 'react';
 import './PictureAndText.css';
 import Earth from './earth2.jpg'
-import { Button } from './Button'
 
 const PictureAndText = () => {
   return (
