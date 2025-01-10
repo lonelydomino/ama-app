@@ -9,7 +9,7 @@ function Home () {
     return(
         <>
             <HeroSection />
-            <Chart />
+            <h1 className='chart-container-h1'>It's up to us to help the planet</h1>
             <PictureAndText />
             <CTA />
         </>

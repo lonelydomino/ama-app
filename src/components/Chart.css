@@ -4,7 +4,6 @@
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     border-radius: 0.5em;
     background-color: #efefef;
-    margin: 120px;
     
   }
   .chart-container {
@@ -13,6 +12,8 @@
   }
   .chart-h1 {
     display: flex;
+    color: black;
+    font-size: 30px;
     align-items: center;
     justify-content: center;
   }

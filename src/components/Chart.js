@@ -9,7 +9,6 @@ defaults.responsive = true
 const Chart = () => {
   return (
     <div className='chart-container'>
-        <h1 className='chart-container-h1'>It's up to us to help the planet</h1>
         <div className="tempCard">
             <h1 className='chart-h1'> Global Rise in Average Temperatures</h1>
         <Line
